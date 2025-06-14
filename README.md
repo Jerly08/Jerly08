@@ -114,7 +114,9 @@ Passionate developer with a focus on creating efficient and elegant solutions. I
 
 ## 📈 Activity Graph
 <div align="center">
-  <img alt="Jerly08's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Jerly08&theme=radical&hide_border=true" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Jerly08's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jerly08&theme=radical&hide_border=true" />
+  </a>
 </div>
 
 ## 👀 Visitor Count
